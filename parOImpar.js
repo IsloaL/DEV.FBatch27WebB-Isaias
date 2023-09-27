@@ -11,7 +11,6 @@ function parOImpar(num) {
 console.log(parOImpar());
 
 
-
 /**
  * Algoritmo    Es par o impar
 
